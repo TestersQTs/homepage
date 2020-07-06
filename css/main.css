@@ -29,9 +29,7 @@ body {
 
 .staffCategories {
   display: flex;
-  align-items: center;
   justify-content: center;
-  grid-gap: 25px;
 }
 
 /* On mouse-over, add a deeper shadow */
@@ -47,6 +45,7 @@ body {
   width: 300px;
   height: auto;
   text-align: center;
+  margin: 15px;
 }
 
 /* Add rounded corners to the top left and the top right corner of the image */
